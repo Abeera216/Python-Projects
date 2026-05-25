@@ -10,7 +10,7 @@ A basic question-and-answer script was redesigned into a decision-based model re
 **python_password_generator → sustainable_city_generator**  
 A simple random password generator was transformed into a sustainability scoring program. Instead of generating characters, the script now evaluates city systems and assigns scores based on environmental criteria selected by the user.
 
-**number_guessing_game → lover_cove_reservoir_monitoring_simulator**  
+**number_guessing_game → plover_cove_reservoir_monitoring_simulator**  
 The original guessing mechanic was repurposed into a contamination-level detection tool inspired by the Plover Cove Reservoir. User input is interpreted as environmental readings, and the program provides feedback consistent with monitoring scenarios.
 
 ## Skills Explored
